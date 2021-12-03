@@ -2,7 +2,6 @@
 
 - 🔭 Studying
 - 🌱 Learning C++ and JS
-- 👯 I'm looking to collaborate for a website
 
  <div>
   <a href="https://github.com/ravimughal">

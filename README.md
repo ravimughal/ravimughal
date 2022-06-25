@@ -1,7 +1,7 @@
-### Let's program together
+### Let's program 
 
 - 🔭 Studying
-- 🌱 C++ and JS
+- 🌱 C++, JS and Python
 
  <div>
   <a href="https://github.com/ravimughal">

@@ -14,7 +14,6 @@
   <img align="center" alt="Ravi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ravi-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  <img align="center" alt="Ravi-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="Ravi-gif" height="140px" width="140px" src="https://c.tenor.com/FsLslkJdj6AAAAAM/lifts-his-headband-kakashi-hatake.gif">
 </div>
   
   ##
